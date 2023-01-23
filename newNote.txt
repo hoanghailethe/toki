@@ -1,0 +1,19 @@
+Project note: TIKTIK
+
+Fucntion summary : 
+	Upload video, img, 
+Tech use : Typescript , nextJS, zustand (alter Redux ) , OAUTH, SANITY : manage content datas
+	SANITY : File storage, content, db
+1. Create Typescript projext nextJS
+	npx install -g create-next-app@lastest
+	npx create-next-app@lastest ./ --ts
+	npx create-next-app ./ --ts
+2. INS sanity 
+	npm install -g @saniti/cli
+	saniti init
+
+
+3. 23 59 install talwind
+
+4. try to run app: npm run dev
+
