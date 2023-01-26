@@ -12,8 +12,19 @@ Tech use : Typescript , nextJS, zustand (alter Redux ) , OAUTH, SANITY : manage 
 	npm install -g @saniti/cli
 	saniti init
 
+	https://www.npmjs.com/package/sanity
+	npm install --location=global sanity
+
 
 3. 23 59 install talwind
+	https://tailwindcss.com/docs/guides/nextjs
+
+	npm install -D tailwindcss postcss autoprefixer
+	npx tailwindcss init -p
 
 4. try to run app: npm run dev
+	22 06
 
+5. Set isSSR serverside: 27 34
+
+6. Component NAVBAR
