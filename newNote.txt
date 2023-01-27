@@ -9,12 +9,12 @@ Tech use : Typescript , nextJS, zustand (alter Redux ) , OAUTH, SANITY : manage 
 	npx create-next-app@lastest ./ --ts
 	npx create-next-app ./ --ts
 2. INS sanity 
-	npm install -g @saniti/cli
-	saniti init
+	npm install -g @sanity/cli
+	sanity init
 
 	https://www.npmjs.com/package/sanity
 	npm install --location=global sanity
-
+	npm create sanity
 
 3. 23 59 install talwind
 	https://tailwindcss.com/docs/guides/nextjs
@@ -28,3 +28,27 @@ Tech use : Typescript , nextJS, zustand (alter Redux ) , OAUTH, SANITY : manage 
 5. Set isSSR serverside: 27 34
 
 6. Component NAVBAR
+
+7. getServersideProps : 1 11
+	https://www.quanle.me/cac-cach-lay-du-lieu-next-js/
+	https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props
+
+	https://viblo.asia/p/nextjs-2022-phan-3-pre-rendering-and-data-fetching-static-generation-7ymJXBeqVkq
+
+8. Sanity qery lang: GROQ 1 16
+	similar GRAPHQL
+	fetch data from sanity by a query: 1 18
+
+9. Using Interface in Typescript: 1 26
+
+10 .HomePAge displa9y VIDEOs infor after fetching data: 1 27
+
+11. VideoCard compnents: 1 33
+	https://www.w3schools.com/react/react_useref.asp
+
+12. google authen : 1 55
+	Google identity Services (new) 
+
+	Get user ID from Google Oath save to sanity
+	
+	Creating user store ZUSTAND  215
